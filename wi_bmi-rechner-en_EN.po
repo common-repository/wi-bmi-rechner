@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wi_bmi-rechner\n"
+"POT-Creation-Date: 2012-09-24 18:43+0100\n"
+"PO-Revision-Date: 2012-09-24 18:58+0100\n"
+"Last-Translator: W-I <webmaster@w-i.de>\n"
+"Language-Team: w-i <webmaster@w-i.de>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wi_bmi-rechner.php:18 wi_bmi-rechner.php:99
+msgid "BMI-Rechner"
+msgstr "BMI-Calculator"
+
+#: wi_bmi-rechner.php:19
+msgid "Dein BMI-Rechner Widget"
+msgstr "Your BMI-Calculator Widget"
+
+#: wi_bmi-rechner.php:30
+msgid "Ihr BMI-Wert"
+msgstr "Your BMI is"
+
+#: wi_bmi-rechner.php:31 wi_bmi-rechner.php:174
+msgid "Geschlecht"
+msgstr "Gender"
+
+#: wi_bmi-rechner.php:32 wi_bmi-rechner.php:175
+msgid "Gr&ouml;&szlig;e"
+msgstr "Height"
+
+#: wi_bmi-rechner.php:33 wi_bmi-rechner.php:176
+msgid "Gewicht"
+msgstr "Weight"
+
+#: wi_bmi-rechner.php:34 wi_bmi-rechner.php:177
+msgid "BMI berechnen"
+msgstr "Calculate BMI"
+
+#: wi_bmi-rechner.php:35
+msgid "Sie haben"
+msgstr "You have"
+
+#: wi_bmi-rechner.php:36 wi_bmi-rechner.php:179
+msgid "Untergewicht"
+msgstr "underweight"
+
+#: wi_bmi-rechner.php:37 wi_bmi-rechner.php:180
+msgid "Normalgewicht"
+msgstr "normal weight"
+
+#: wi_bmi-rechner.php:38 wi_bmi-rechner.php:181
+msgid "&Uuml;bergewicht "
+msgstr "overweight"
+
+#: wi_bmi-rechner.php:39 wi_bmi-rechner.php:182
+msgid "Adipositas"
+msgstr "obesity"
+
+#: wi_bmi-rechner.php:40 wi_bmi-rechner.php:183
+msgid "starke Adipositas"
+msgstr "strong obesity"
+
+#: wi_bmi-rechner.php:41 wi_bmi-rechner.php:184
+msgid "Amputation 1"
+msgstr "Amputation 1"
+
+#: wi_bmi-rechner.php:42 wi_bmi-rechner.php:185
+msgid "Amputation 2"
+msgstr "Amputation 2"
+
+#: wi_bmi-rechner.php:43 wi_bmi-rechner.php:186
+msgid "Keine"
+msgstr "No"
+
+#: wi_bmi-rechner.php:44 wi_bmi-rechner.php:187
+msgid "Hand"
+msgstr "Hand"
+
+#: wi_bmi-rechner.php:45 wi_bmi-rechner.php:188
+msgid "Unterarm/Hand"
+msgstr "Forearm/Hand"
+
+#: wi_bmi-rechner.php:46 wi_bmi-rechner.php:189
+msgid "Ober-/Unterarm"
+msgstr "Upper arm/Forearm"
+
+#: wi_bmi-rechner.php:47 wi_bmi-rechner.php:190
+msgid "Fu&szlig;"
+msgstr "Foot"
+
+#: wi_bmi-rechner.php:48 wi_bmi-rechner.php:191
+msgid "Unterschenkel/Fu&szlig;"
+msgstr "Lower Leg/Foot"
+
+#: wi_bmi-rechner.php:49 wi_bmi-rechner.php:192
+msgid "Ober-/Unterschenkel/Fu&szlig;"
+msgstr "Thigh/Lower Leg/Foot"
+
+#: wi_bmi-rechner.php:50
+msgid "m&auml;nnlich"
+msgstr "Male"
+
+#: wi_bmi-rechner.php:51
+msgid "weiblich"
+msgstr "Female"
+
+#: wi_bmi-rechner.php:52 wi_bmi-rechner.php:196
+msgid "Groesse und/oder Gewicht wurde nicht angegeben"
+msgstr "Height and / or weight was not specified"
+
+#: wi_bmi-rechner.php:53 wi_bmi-rechner.php:197
+msgid "Zur&uuml;ck"
+msgstr "Back"
+
+#: wi_bmi-rechner.php:54 wi_bmi-rechner.php:198
+msgid "de"
+msgstr "en"
+
+#: wi_bmi-rechner.php:107
+msgid ""
+"Wenn Sie &quot;Externe Links&quot; aktivieren haben Ihre Besucher die M&ouml;"
+"glichkeit eine ausf&uuml;hrliche Erkl&auml;rung zur Gewichtseinstufung ihres "
+"BMIs inkl. m&ouml;glicher Ursachenbenennung und Methoden zum Errechen des "
+"Idealgewichts abzurufen."
+msgstr ""
+"If you activate \"External Link\" there will be shown a short Link under the "
+"BMI-Calculator. The Link only says \"BMI\" (yes, only 3 small letters) and "
+"links to our Website. We would really appreciate your support by activating "
+"\"External Link\" if you're considering to use our absolutely free and "
+"accurate BMI-Calculator."
+
+#: wi_bmi-rechner.php:111 wi_bmi-rechner.php:246
+msgid "Title:"
+msgstr "Title"
+
+#: wi_bmi-rechner.php:115
+msgid "Geschlecht anzeigen"
+msgstr "Display gender"
+
+#: wi_bmi-rechner.php:120 wi_bmi-rechner.php:250
+msgid "1. Amputiertenfeld anzeigen"
+msgstr "First amputation display"
+
+#: wi_bmi-rechner.php:125 wi_bmi-rechner.php:255
+msgid "2. Amputiertenfeld anzeigen"
+msgstr "Second amputation display"
+
+#: wi_bmi-rechner.php:130 wi_bmi-rechner.php:260
+msgid "Externe Links"
+msgstr "External Links"
+
+#: wi_bmi-rechner.php:162
+msgid "BMI-Rechner Kinder"
+msgstr "BMI-Calculator (Kids)"
+
+#: wi_bmi-rechner.php:163
+msgid "Dein Kinder-BMI-Rechner Widget"
+msgstr "Your Kids BMI-Calculator Widget"
+
+#: wi_bmi-rechner.php:173
+msgid "Dein BMI-Wert"
+msgstr "Your BMI is"
+
+#: wi_bmi-rechner.php:178
+msgid "Du hast"
+msgstr "You have"
+
+#: wi_bmi-rechner.php:193
+msgid "Alter"
+msgstr "Age"
+
+#: wi_bmi-rechner.php:194
+msgid "Junge"
+msgstr "Boy"
+
+#: wi_bmi-rechner.php:195
+msgid "M&auml;dchen"
+msgstr "Girl"
+
+#: wi_bmi-rechner.php:236
+msgid "Kinder-BMI-Rechner"
+msgstr "Kids BMI-Calculator"
+
+#: wi_bmi-rechner.php:242
+msgid ""
+"Dieses Widget beinhaltet externe Links zur Herstellerseite. Ist dies nicht "
+"gew&uuml;nscht nutzt dieses kostenlose Widget nicht."
+msgstr ""
+"This Widget contains an external Link to the Producers Site. If you don't "
+"agree don't use this Widget."
+
+#~ msgid "WI BMI-Rechner"
+#~ msgstr "WI BMI-Calculator"
+
+#~ msgid "Amputierten Feld 2:"
+#~ msgstr "Ampufield 2"

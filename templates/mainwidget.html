@@ -1,0 +1,32 @@
+<FORM NAME="myform" ACTION="" METHOD="POST">
+<script type="text/javascript">
+		wi_text_al = "$wi_text_al";
+		wi_text_an = "$wi_text_an";
+		wi_text_untergewicht = "$wi_text_untergewicht";
+		wi_text_normalgewicht = "$wi_text_normalgewicht";
+		wi_text_uebergewicht = "$wi_text_uebergewicht";
+		wi_text_adipositas = "$wi_text_adipositas";
+		wi_text_str_adipositas  = "$wi_text_str_adipositas";
+		wi_gender="$wi_gender";
+		wi_ampu1="$wi_ampu1";
+		wi_ampu2="$wi_ampu2";
+		wi_text_alert_no="$wi_text_alert_no";
+		wi_button_back="$wi_button_back";
+		wi_language="$wi_language";
+		wi_external_links="$wi_external_links";
+</script>
+<script type="text/javascript" src="$wi_plugin_url/js/vars.js"></script>
+<script type="text/javascript" src="$wi_plugin_url/js/wordpress.js"></script>
+ <div id="bmimain_content">
+$geschlecht
+		  <label for="textfield">$wi_text_height: (cm)</label>
+		  <input type="text" name="groesse" id="groesse" />
+		  <label for="textfield">$wi_text_weight: (kg)</label>
+		  <input type="text" name="gewicht" id="gewicht" />
+		  $amputation
+		  <input name="" type="button" value="$wi_text_bmi_button" onClick="checkBMI(this.form)" />
+		  <br />
+		  $wi_link
+</div>		  
+		  <div id="bmiergebnis"> </div>
+</FORM>

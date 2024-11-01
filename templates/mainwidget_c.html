@@ -1,0 +1,57 @@
+<FORM NAME="myform" ACTION="" METHOD="POST">
+<script type="text/javascript">
+		wi_c_text_al = "$wi_text_al";
+		wi_c_text_an = "$wi_text_an";
+		wi_c_text_untergewicht = "$wi_text_untergewicht";
+		wi_c_text_normalgewicht = "$wi_text_normalgewicht";
+		wi_c_text_uebergewicht = "$wi_text_uebergewicht";
+		wi_c_text_adipositas = "$wi_text_adipositas";
+		wi_c_text_str_adipositas  = "$wi_text_str_adipositas";
+		wi_c_ampu1="$wi_ampu1";
+		wi_c_ampu2="$wi_ampu2";
+		wi_text_alert_no="$wi_text_alert_no";
+		wi_button_back="$wi_button_back";
+		wi_language="$wi_language";
+		wi_external_links="$wi_external_links";
+</script>
+<script type="text/javascript" src="$wi_plugin_url/js/vars.js"></script>
+<script type="text/javascript" src="$wi_plugin_url/js/wordpress_c.js"></script>
+ <div id="c_bmimain_content">
+<label for="select">$wi_text_gender:</label>
+	<select name="c_geschlecht" id="c_geschlecht">
+		<option value="0">$wi_text_gender_m</option>
+		<option value="1">$wi_text_gender_w</option>
+	</select>
+<br />
+		  <label for="c_groesse">$wi_text_height: (cm)</label>
+		  <input type="text" name="c_groesse" id="c_groesse" />
+		  <label for="c_gewicht">$wi_text_weight: (kg)</label>
+		  <input type="text" name="c_gewicht" id="c_gewicht" /><br />
+		  <label for="c_alter">$wi_text_alter:</label>
+		  	      <select name="c_alter" id="c_alter">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+			        <option value="7">7</option>
+			        <option value="8">8</option>
+			        <option value="9">9</option>
+			        <option value="10">10</option>
+	    		    <option value="11">11</option>
+			        <option value="12">12</option>	        
+		            <option value="13">13</option>
+        		    <option value="14">14</option>
+		            <option value="15">15</option>
+		            <option value="16">16</option>
+		            <option value="17">17</option>
+        		    <option value="18">18</option>
+		          </select><br />
+		  $amputation
+		  <input name="" type="button" value="$wi_text_bmi_button" onClick="checkBMIc(this.form)" />
+		  <br />
+		  $wi_link
+</div>		  
+		  <div id="c_bmiergebnis"> </div>
+</FORM>
